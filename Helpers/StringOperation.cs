@@ -88,10 +88,7 @@ namespace Mvc.Helpers
             return this;
         }
 
-        public override string ToString()
-        {
-            return this.Text;
-        }
+        public override string ToString() => this.Text;
 
         protected virtual void Dispose(bool disposing)
         {
