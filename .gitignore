@@ -1,0 +1,11 @@
+bin/
+.vscode/
+Controllers/
+Models/
+obj/
+Properties/
+Views/
+wwwroot/
+*.json
+Mvc.csproj
+Program.cs
